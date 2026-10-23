@@ -18,7 +18,7 @@ Pořádná výzva se ale skrývá v zapomenutých dungeonech, které není radno
 - Pohyb vydává zvuk v podobě malých vlnek kolem svých nohou. Výskok a dopad vygeneruje větší vlnu, která odhalí více z levelu
 - Hráč může libovolným směrem hodit něco s omezeným počtem dobití. Když kamínek narazí na zeď, vytvoří masivní zvukovou vlnu, která nasvítí velkou část místnosti a odhalí cestu dál
 -  Různé povrchy reagují na zvuk jinak. Něco zvuk odráží a násobí, ale jiný povrch zvuk pohlcuje 
-- Nepřátelé, které hráč nezabíjí je, ale vyhýbá se jim. Reagují na zvuk. Hráč musí balancovat mezi potřebou vidět a potřebou nebýt odhalen tím, že skáče z paměti
+- Nepřátelé, které hráč nezabíjí, ale vyhýbá se jim. Reagují na zvuk. Hráč musí balancovat mezi potřebou vidět a potřebou nebýt odhalen tím, že skáče z paměti
 
 **Cíle hráče:**
 - Projít na konec každého levelu, ikdyž zadarmo to nikomu nedám
